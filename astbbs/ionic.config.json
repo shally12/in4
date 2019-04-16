@@ -1,0 +1,7 @@
+{
+  "name": "astbbs",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

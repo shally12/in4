@@ -1,0 +1,168 @@
+{
+    "isLogin": false,
+    "games": [
+        {
+            "fid": 112,
+            "gameId": "zjzr",
+            "gameName": "最佳阵容(手游)",
+            "cfgType": "ssp",
+            "icons": "1,2,3,4,5,6,7,8",
+            "gameType": "handgame",
+            "gamePic": "https://bbs.aoshitang.com/images/common_112_app_icon.png",
+            "defaultFid": 142
+        },
+        {
+            "fid": 120,
+            "gameId": "hlw",
+            "gameName": "葫芦娃",
+            "cfgType": "ssp",
+            "icons": "1,2,3,4,5,6,7,8",
+            "gameType": "handgame",
+            "gamePic": "https://bbs.aoshitang.com/images/common_120_app_icon.png",
+            "defaultFid": 122
+        },
+        {
+            "fid": 124,
+            "gameId": "gcmob",
+            "gameName": "攻城掠地(手游)",
+            "cfgType": "ssp",
+            "icons": "1,2,3,4,5,6,7,8",
+            "gameType": "handgame",
+            "gamePic": "https://bbs.aoshitang.com/images/common_124_app_icon.png",
+            "defaultFid": 126
+        },
+        {
+            "fid": 144,
+            "gameId": "tjmob",
+            "gameName": "罗马帝国",
+            "cfgType": "ssp",
+            "icons": "1,2,3,4,5,6,7,8",
+            "gameType": "handgame",
+            "gamePic": "https://bbs.aoshitang.com/images/common_144_app_icon.png",
+            "defaultFid": 146
+        },
+        {
+            "fid": 1,
+            "gameId": "astd",
+            "gameName": "傲视天地",
+            "cfgType": "rolename",
+            "icons": "1,2,3,4,5,6,7,8",
+            "gameType": "webgame",
+            "gamePic": "https://bbs.aoshitang.com/images/common_1_icon.png",
+            "defaultFid": 51
+        },
+        {
+            "fid": 82,
+            "gameId": "gcld",
+            "gameName": "攻城掠地",
+            "cfgType": "rolename",
+            "icons": "1,2,3,4,5,6,7,8",
+            "gameType": "webgame",
+            "gamePic": "https://bbs.aoshitang.com/images/common_82_icon.png",
+            "defaultFid": 84
+        },
+        {
+            "fid": 148,
+            "gameId": "hlweb",
+            "gameName": "葫芦娃(页游)",
+            "cfgType": "ssp",
+            "icons": "1,2,3,4,5,6,7,8",
+            "gameType": "webgame",
+            "gamePic": "https://bbs.aoshitang.com/images/common_148_icon.png",
+            "defaultFid": 150
+        },
+        {
+            "fid": 128,
+            "gameId": "lszb",
+            "gameName": "铁骑冲锋",
+            "cfgType": "rolename",
+            "icons": "1,2,3,4,5,6,7,8",
+            "gameType": "webgame",
+            "gamePic": "https://bbs.aoshitang.com/images/common_128_icon.png",
+            "defaultFid": 130
+        },
+        {
+            "fid": 133,
+            "gameId": "zjweb",
+            "gameName": "最佳阵容",
+            "cfgType": "rolename",
+            "icons": "1,2,3,4,5,6,7,8",
+            "gameType": "webgame",
+            "gamePic": "https://bbs.aoshitang.com/images/common_133_icon.png",
+            "defaultFid": 135
+        }
+    ],
+    "images": [
+        {
+            "id": 176,
+            "type": "0",
+            "tid": 3563944,
+            "downloadLink": "",
+            "imgUrl": "https://bbs.aoshitang.com/images/forumImage/1554116913158.jpg"
+        },
+        {
+            "id": 175,
+            "type": "0",
+            "tid": 3533367,
+            "downloadLink": "",
+            "imgUrl": "https://bbs.aoshitang.com/images/forumImage/1553657497447.jpg"
+        },
+        {
+            "id": 177,
+            "type": "0",
+            "tid": 3573378,
+            "downloadLink": "",
+            "imgUrl": "https://bbs.aoshitang.com/images/forumImage/1555053145768.jpg"
+        }
+    ],
+    "list": [
+        {
+            "newGame": false,
+            "downloadLink": "http://hlw.aoshitang.com/",
+            "dlStatus": true,
+            "name": "葫芦娃",
+            "link": "https://bbs.aoshitang.com/listThreads.htm?fid=120",
+            "fid": 120,
+            "displayOrder": 0,
+            "logoLink": "https://bbs.aoshitang.com/images/common_120_app_icon.png",
+            "title": "《葫芦娃》第八届双龙跨服武斗会，4月13日周年争雄",
+            "defaultFid": 122
+        },
+        {
+            "newGame": false,
+            "downloadLink": "https://itunes.apple.com/cn/app/id1444310665?mt=8",
+            "dlStatus": true,
+            "name": "攻城掠地",
+            "link": "https://bbs.aoshitang.com/listThreads.htm?fid=124",
+            "fid": 124,
+            "displayOrder": 2,
+            "logoLink": "https://bbs.aoshitang.com/images/common_124_app_icon.png",
+            "title": "攻城掠地周年庆，游戏外观随心定",
+            "defaultFid": 126
+        },
+        {
+            "newGame": false,
+            "downloadLink": "https://itunes.apple.com/cn/app/最佳阵容-冠军杯/id1236753543?mt=8",
+            "dlStatus": true,
+            "name": "最佳阵容",
+            "link": "https://bbs.aoshitang.com/listThreads.htm?fid=112",
+            "fid": 112,
+            "displayOrder": 3,
+            "logoLink": "https://bbs.aoshitang.com/images/common_112_app_icon.png",
+            "title": "《最佳阵容》4月社区盾杯，今日火热开启！",
+            "defaultFid": 142
+        },
+        {
+            "newGame": false,
+            "downloadLink": "https://bbs.aoshitang.com/download2.htm?fid=144&platform=ios",
+            "dlStatus": false,
+            "name": "罗马帝国",
+            "link": "https://bbs.aoshitang.com/listThreads.htm?fid=144",
+            "fid": 144,
+            "displayOrder": 7,
+            "logoLink": "https://bbs.aoshitang.com/images/common_144_app_icon.png",
+            "title": "【活动】4月12攻城宝箱送不停，宝石转盘享好礼",
+            "defaultFid": 146
+        }
+    ]
+}
